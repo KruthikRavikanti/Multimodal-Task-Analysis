@@ -1,0 +1,83 @@
+Data from Participants
+EMORY MULTIMODAL:
+Participant:ERKN-310-JJ-2​
+Version:1
+Block:1​
+Type: Multimodal Main
+
+Playing: MultiModal_Videos/4.16_Brian-Volleyball.mp4
+
+Playing: 5/30/2023 1:46:13 PM
+
+{"onset_time":"5/30/2023 1:46:13 PM","offset_time":"5/30/2023 1:46:52 PM","video_path":"MultiModal_Videos/4.16_Brian-Volleyball.mp4","duration":39.0,"name":"Brian Wallace","place":"Lake Jackson Park","trial_num":0}
+Playing: MultiModal_Videos/5.19_Dorothy-Refrigerator.mp4
+
+Playing: 5/30/2023 1:50:00 PM
+
+{"onset_time":"5/30/2023 1:50:00 PM","offset_time":"5/30/2023 1:51:13 PM","video_path":"MultiModal_Videos/5.19_Dorothy-Refrigerator.mp4","duration":73.0,"name":"Dorothy Jones","place":"Home in Crosstown Junction ","trial_num":1}
+Playing: MultiModal_Videos/3.10_Hector.mp4
+
+Playing: 5/30/2023 1:54:23 PM
+
+{"onset_time":"5/30/2023 1:54:23 PM","offset_time":"5/30/2023 1:55:16 PM","video_path":"MultiModal_Videos/3.10_Hector.mp4","duration":53.0,"name":"Hector Rodriguez","place":"Workshop in Grovetown ","trial_num":2}
+Playing: MultiModal_Videos/2.06_Brad-Pooltable.mp4
+
+Playing: 5/30/2023 1:56:52 PM
+
+{"onset_time":"5/30/2023 1:56:52 PM","offset_time":"5/30/2023 1:58:15 PM","video_path":"MultiModal_Videos/2.06_Brad-Pooltable.mp4","duration":83.0,"name":"Bradley Gilbert","place":"Grovetown Recreation Center","trial_num":3}
+Playing: MultiModal_Videos/4.16_Brian-Volleyball.mp4
+
+Playing: 5/30/2023 2:00:40 PM
+
+{"onset_time":"5/30/2023 2:00:40 PM","offset_time":"5/30/2023 2:01:19 PM","video_path":"MultiModal_Videos/4.16_Brian-Volleyball.mp4","duration":39.0,"name":"Brian Wallace","place":"Lake Jackson Park","trial_num":4}
+Playing: MultiModal_Videos/3.11_Jenifer-Playground.mp4
+
+Playing: 5/30/2023 2:04:16 PM
+
+{"onset_time":"5/30/2023 2:04:16 PM","offset_time":"5/30/2023 2:05:16 PM","video_path":"MultiModal_Videos/3.11_Jenifer-Playground.mp4","duration":60.0,"name":"Jennifer McMurty","place":" Playground at Jones Park ","trial_num":5}
+Playing: MultiModal_Videos/2.05_Charlie-Basketball.mp4
+
+Playing: 5/30/2023 2:07:47 PM
+
+{"onset_time":"5/30/2023 2:07:47 PM","offset_time":"5/30/2023 2:08:37 PM","video_path":"MultiModal_Videos/2.05_Charlie-Basketball.mp4","duration":50.0,"name":"Charlie Stewart","place":"Cletus Jones Park ","trial_num":6}
+Playing: MultiModal_Videos/3.10_Hector.mp4
+
+Playing: 5/30/2023 2:11:27 PM
+
+{"onset_time":"5/30/2023 2:11:27 PM","offset_time":"5/30/2023 2:12:20 PM","video_path":"MultiModal_Videos/3.10_Hector.mp4","duration":53.0,"name":"Hector Rodriguez","place":"Workshop in Grovetown ","trial_num":7}
+Playing: MultiModal_Videos/3.11_Jenifer-Playground.mp4
+
+Playing: 5/30/2023 2:14:32 PM
+
+{"onset_time":"5/30/2023 2:14:32 PM","offset_time":"5/30/2023 2:15:32 PM","video_path":"MultiModal_Videos/3.11_Jenifer-Playground.mp4","duration":60.0,"name":"Jennifer McMurty","place":"Playground at Jones Park ","trial_num":8}
+Playing: MultiModal_Videos/4.16_Brian-Volleyball.mp4
+
+Playing: 5/30/2023 2:17:49 PM
+
+{"onset_time":"5/30/2023 2:17:49 PM","offset_time":"5/30/2023 2:18:28 PM","video_path":"MultiModal_Videos/4.16_Brian-Volleyball.mp4","duration":39.0,"name":"Brian Wallace","place":"Lake Jackson Park","trial_num":9}
+Playing: MultiModal_Videos/5.20_Harper-Staircase.mp4
+
+Playing: 5/30/2023 2:21:44 PM
+
+{"onset_time":"5/30/2023 2:21:44 PM","offset_time":"5/30/2023 2:22:48 PM","video_path":"MultiModal_Videos/5.20_Harper-Staircase.mp4","duration":64.0,"name":"Harper Lin","place":"Waldorf Apartment Complex","trial_num":10}
+{"start_time":"5/30/2023 2:24:40 PM","trial_num":11}
+Starting Semantic Free Recall5/30/2023 2:24:40 PM
+Starting Face Recog
+FR Image: FR1/FR1_Bradley
+
+{"start_time":"5/30/2023 2:31:03 PM","onset_time":"5/30/2023 2:31:13 PM","offset_time":"5/30/2023 2:31:19 PM","image_name":"FR1/FR1_Bradley","key_pressed":"Key Pressed: b","trial_num":12}
+FR Image: FR1/FR1_Brian
+
+{"start_time":"5/30/2023 2:31:03 PM","onset_time":"5/30/2023 2:33:16 PM","offset_time":"5/30/2023 2:33:20 PM","image_name":"FR1/FR1_Brian","key_pressed":"Key Pressed: a","trial_num":12}
+FR Image: FR1/FR1_Charlie
+
+{"start_time":"5/30/2023 2:31:03 PM","onset_time":"5/30/2023 2:34:32 PM","offset_time":"5/30/2023 2:34:36 PM","image_name":"FR1/FR1_Charlie","key_pressed":"Key Pressed: b","trial_num":12}
+FR Image: FR1/FR1_Girl_frisbee
+
+{"start_time":"5/30/2023 2:31:03 PM","onset_time":"5/30/2023 2:35:59 PM","offset_time":"5/30/2023 2:36:05 PM","image_name":"FR1/FR1_Girl_frisbee","key_pressed":"Key Pressed: b","trial_num":12}
+FR Image: FR1/FR1_Harper
+
+{"start_time":"5/30/2023 2:31:03 PM","onset_time":"5/30/2023 2:36:58 PM","offset_time":"5/30/2023 2:37:09 PM","image_name":"FR1/FR1_Harper","key_pressed":"Key Pressed: a","trial_num":12}
+FR Image: FR1/FR1_Jennifer
+
+{"start_time":"5/30/2023 2:31:03 PM","onset_time":"5/30/2023 2:38:04 PM","offset_time":"5/30/2023 2:38:08 PM","image_name":"FR1/FR1_Jennifer","key_pressed":"Key Pressed: c","trial_num":12}
